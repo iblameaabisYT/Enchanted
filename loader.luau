@@ -85,6 +85,10 @@ local Config = {
     },
     Scripts = {
         {
+            Name = "Legends Of Speed",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Legends%20Of%20Speed"
+        },
+        {
             Name = "Muscle Legends",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Muscle%20Legends"
         }
