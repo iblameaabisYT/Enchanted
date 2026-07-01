@@ -80,7 +80,7 @@ local Config = {
         TabWidth     = 160,
         Size         = UDim2.fromOffset(580, 460),
         Acrylic      = true,
-        Theme        = "Dark",
+        Theme        = "Viow Mars",
         MinimizeKey  = Enum.KeyCode.LeftControl
     },
     Scripts = {
