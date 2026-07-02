@@ -1,4 +1,4 @@
-local config = {
+local CONFIG = {
 	accent_color = Color3.fromRGB(88, 101, 242),
 	min_size = Vector2.new(700, 480),
 	toggle_key = Enum.KeyCode.RightShift,
