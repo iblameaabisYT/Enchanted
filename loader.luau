@@ -89,6 +89,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Collect%20Minions"
         },
         {
+            Name = "Bubble Gum Simulator INFINITY",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY"
+        },
+        {
             Name = "Grow A Garden 2",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Grow%20A%20Garden%202"
         },
