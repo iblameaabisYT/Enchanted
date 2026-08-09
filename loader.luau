@@ -103,6 +103,10 @@ local Config = {
         {
             Name = "Muscle Legends",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Muscle%20Legends"
+        },
+        {
+            Name = "Survive Zombie Arena",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Survive%20Zombie%20Arena"
         }
     },
 }
