@@ -113,6 +113,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Midnight%20Chasers"
         },
         {
+            Name = "MM2",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/MM2"
+        },
+        {
             Name = "Survive Zombie Arena",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Survive%20Zombie%20Arena"
         }
