@@ -105,6 +105,10 @@ local Config = {
             Url  = "https://illunox.qzz.io/api/scripts/6046ae96a8754149b3ff146883de0434"
         },
         {
+            Name = "Midnight Chasers",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Midnight%20Chasers"
+        },
+        {
             Name = "Survive Zombie Arena",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Survive%20Zombie%20Arena"
         }
