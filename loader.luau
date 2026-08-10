@@ -102,7 +102,7 @@ local Config = {
         },
         {
             Name = "Muscle Legends",
-            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/illunox_8ab11aea.lua.txt"
+            Url  = "https://illunox.qzz.io/api/scripts/6046ae96a8754149b3ff146883de0434"
         },
         {
             Name = "Survive Zombie Arena",
