@@ -93,6 +93,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY"
         },
         {
+            Name = "Build A Boat For Treasure",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Build%20A%20Boat%20For%20Treasure"
+        },
+        {
             Name = "Build A Ring Farm",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Build%20A%20Ring%20Farm"
         },
