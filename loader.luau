@@ -109,6 +109,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Legends%20Of%20Speed"
         },
         {
+            Name = "Merge A Nuke",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Merge%20A%20Nuke"
+        },
+        {
             Name = "Muscle Legends",
             Url  = "https://illunox.qzz.io/api/scripts/6046ae96a8754149b3ff146883de0434"
         },
