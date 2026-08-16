@@ -101,6 +101,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Build%20A%20Ring%20Farm"
         },
         {
+            Name = "Fisch",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Fisch"
+        },
+        {
             Name = "Grow A Garden 2",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Grow%20A%20Garden%202"
         },
