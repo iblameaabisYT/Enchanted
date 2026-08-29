@@ -85,8 +85,16 @@ local Config = {
     },
     Scripts = {
         {
+            Name = "+1 Football For Brainrots",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Football%20For%20Brainrots"
+        },
+        {
             Name = "+1 Speed Collect Minions",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Collect%20Minions"
+        },
+        {
+            Name = "Be A Lucky Block",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Be%20A%20Lucky%20Block"
         },
         {
             Name = "Blue Lock Rivals",
@@ -105,12 +113,20 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Build%20A%20Ring%20Farm"
         },
         {
+            Name = "DaHood",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/DaHood"
+        },
+        {
             Name = "Fisch",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Fisch"
         },
         {
             Name = "Grow A Garden 2",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Grow%20A%20Garden%202"
+        },
+        {
+            Name = "Knife VS Duels",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Knife%20VS%20Duels"
         },
         {
             Name = "Legends Of Speed",
