@@ -113,6 +113,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Build%20A%20Ring%20Farm"
         },
         {
+            Name = "Car Dealership Tycoon",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Car%20Dealership%20Tycoon"
+        },
+        {
             Name = "DaHood",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/DaHood"
         },
