@@ -133,6 +133,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/DaHood"
         },
         {
+            Name = "Dead Rails",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Dead%20Rails"
+        },
+        {
             Name = "Fisch",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Fisch"
         },
