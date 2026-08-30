@@ -89,6 +89,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Football%20For%20Brainrots"
         },
         {
+            Name = "+1 Speed Bridge Building",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Bridge%20Building"
+        },
+        {
             Name = "+1 Speed Per Click",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Per%20Click"
         },
