@@ -89,8 +89,16 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Football%20For%20Brainrots"
         },
         {
+            Name = "+1 Speed Per Click",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Per%20Click"
+        },
+        {
             Name = "+1 Speed Collect Minions",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Collect%20Minions"
+        },
+        {
+            Name = "+1 Water Drain Per Click",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Water%20Drain%20Per%20Click"
         },
         {
             Name = "Be A Lucky Block",
