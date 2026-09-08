@@ -162,7 +162,7 @@ local Config = {
         },
         {
             Name = "Muscle Legends",
-            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Muscle%20Legends.txt"
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Muscle%20Legends"
         },
         {
             Name = "Midnight Chasers",
