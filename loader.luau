@@ -181,6 +181,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Steal%20An%20Egg"
         },
         {
+            Name = "Supermarket Simulator",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Supermarket%20Simulator"
+        },
+        {
             Name = "Survive Zombie Arena",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Survive%20Zombie%20Arena"
         }
