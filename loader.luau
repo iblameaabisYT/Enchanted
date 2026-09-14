@@ -101,6 +101,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Collect%20Minions"
         },
         {
+            Name = "+1 Speed Monkey Escape",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speed%20Monkey%20Escape"
+        },
+        {
             Name = "+1 Speedster Escape",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Speedster%20Escape"
         },
