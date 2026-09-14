@@ -113,6 +113,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Water%20Drain%20Per%20Click"
         },
         {
+            Name = "Anime Dice",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Anime%20Dice"
+        },
+        {
             Name = "Be A Lucky Block",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Be%20A%20Lucky%20Block"
         },
@@ -161,6 +165,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Legends%20Of%20Speed"
         },
         {
+            Name = "Lift A Cube",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Lift%20A%20Cube"
+        },
+        {
             Name = "Merge A Nuke",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Merge%20A%20Nuke"
         },
@@ -179,6 +187,10 @@ local Config = {
         {
             Name = "Rivals",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Rivals"
+        },
+        {
+            Name = "Sniper Arena",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Sniper%20Arena"
         },
         {
             Name = "Steal An Egg",
