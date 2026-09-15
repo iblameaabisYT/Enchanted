@@ -185,6 +185,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/MM2"
         },
         {
+            Name = "One Tap",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/One%20Tap"
+        },
+        {
             Name = "Rivals",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Rivals"
         },
