@@ -157,6 +157,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Grow%20A%20Garden%202"
         },
         {
+            Name = "Kick A Lucky Block",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Kick%20A%20Lucky%20Block"
+        },
+        {
             Name = "Knife VS Duels",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Knife%20VS%20Duels"
         },
