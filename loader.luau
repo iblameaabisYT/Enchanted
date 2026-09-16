@@ -196,6 +196,7 @@ local Config = {
             Name = "Operation One",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Operation%20One"
         },
+        {
             Name = "Rivals",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Rivals"
         },
