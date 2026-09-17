@@ -201,6 +201,10 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Rivals"
         },
         {
+            Name = "Sell Lemons",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Sell%20Lemons"
+        }, 
+        {
             Name = "Sniper Arena",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Sniper%20Arena"
         },
