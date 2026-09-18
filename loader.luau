@@ -219,7 +219,11 @@ local Config = {
         {
             Name = "Survive Zombie Arena",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Survive%20Zombie%20Arena"
-        }
+        },
+        {
+            Name = "Tower Of Hell",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Tower%20Of%20Hell"
+        } 
     },
 }
 
