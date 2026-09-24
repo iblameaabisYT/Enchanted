@@ -113,12 +113,20 @@ local Config = {
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/%2B1%20Water%20Drain%20Per%20Click"
         },
         {
+            Name = "99 Nights In The Forest",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/99%20Nights%20In%20the%20Forest"
+        },
+        {
             Name = "Anime Dice",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Anime%20Dice"
         },
         {
             Name = "Be A Lucky Block",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Be%20A%20Lucky%20Block"
+        },
+        {
+            Name = "Blade Ball",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Blade%20Ball"
         },
         {
             Name = "Blue Lock Rivals",
